@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "80pajwyvMGlVKzjCsa9Clx1CFp13W4d3U2CSp8595bU1GHINC9LrcflUr3WuEgR7udQeDgr5KlxqAqObefQ6Gg==",
+  "success": true,
+  "projectFilePath": "H:\\Visual Studio 2022\\Projects\\CentralDBForms\\RestAPI\\RestAPI\\RestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrowe.EN\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\mrowe.EN\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+H:\Visual Studio 2022\Projects\CentralDBForms\RestAPI\ClassLib1\bin\Debug\ClassLib1.dll
+H:\Visual Studio 2022\Projects\CentralDBForms\RestAPI\ClassLib1\bin\Debug\ClassLib1.pdb
+H:\Visual Studio 2022\Projects\CentralDBForms\RestAPI\ClassLib1\obj\Debug\ClassLib1.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\CentralDBForms\RestAPI\ClassLib1\obj\Debug\ClassLib1.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\CentralDBForms\RestAPI\ClassLib1\obj\Debug\ClassLib1.dll
+H:\Visual Studio 2022\Projects\CentralDBForms\RestAPI\ClassLib1\obj\Debug\ClassLib1.pdb
